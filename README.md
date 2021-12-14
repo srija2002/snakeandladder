@@ -24,3 +24,4 @@
 * There could be another snake/ladder at the tail of the snake or the end position of the ladder and the piece should go up/down accordingly.
 ## OUTPUT
 ![img1](https://github.com/srija2002/snakeandladder/blob/main/output1.png)
+![img2](https://github.com/srija2002/snakeandladder/blob/main/output2.png)
