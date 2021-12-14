@@ -25,3 +25,4 @@
 ## OUTPUT
 ![img1](https://github.com/srija2002/snakeandladder/blob/main/output1.png)
 ![img2](https://github.com/srija2002/snakeandladder/blob/main/output2.png)
+![img3](https://github.com/srija2002/snakeandladder/blob/main/output3.png)
