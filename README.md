@@ -23,4 +23,4 @@
 * Whenever a piece ends up at a position with the start of the ladder, the piece should go up to the position of the end of that ladder.
 * There could be another snake/ladder at the tail of the snake or the end position of the ladder and the piece should go up/down accordingly.
 ## OUTPUT
-![img1]()
+![img1](https://github.com/srija2002/snakeandladder/blob/main/output1.png)
